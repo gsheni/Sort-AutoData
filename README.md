@@ -9,7 +9,7 @@ The SortAutoData program reads in four command line arguments that corresponds t
 2. the word “bubble”, “quick”, or “brick”, depending on the sorting algorithm used
 3. the number of datum to sort
 4. the output flags “verbose” or “terse” (see below). 
-5. 
+
 The database file is formatted such that the attributes for each automobile are separated by a colon (“:”). The attributes and their types are as follows:
 
 + mpg: float
