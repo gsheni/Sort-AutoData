@@ -10,15 +10,15 @@ The SortAutoData program reads in four command line arguments that corresponds t
 4) the output flags “verbose” or “terse” (see below). 
 The database file is formatted such that the attributes for each automobile are separated by a colon (“:”). The attributes and their types are as follows:
 
-+mpg: float
-+cylinders:	int
-+displacement: float
-+horsepower: float
-+weight: float
-+acceleration: float
-+model year: int
-+origin: int
-+car name: string
++ mpg: float
++ cylinders:	int
++ displacement: float
++ horsepower: float
++ weight: float
++ acceleration: float
++ model year: int
++ origin: int
++ car name: string
 
 The program opens the file and reads in each line, separating each attribute to construct AutoData objects. 
 
