@@ -32,7 +32,10 @@ For each sorting algorithm, the number of swaps are counted. For the brick sort 
 Finally, the program outputs the sorted list in the same format as the original database file if the output type is “verbose” or the number of swaps if the output type is “terse”.
 
 ##Results
+___
+___
 ![alt text](http://i.imgur.com/beUaOXc.png?4)
+___
 ___
 ![alt text](http://i.imgur.com/NjWvJc1.png?2)
 
