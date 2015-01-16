@@ -33,6 +33,6 @@ Finally, the program outputs the sorted list in the same format as the original 
 
 ##Results
 ![alt text](http://imgur.com/beUaOXc)
-![alt text](http://imgur.com/NjWvJc1)
+![alt text](http://i.imgur.com/NjWvJc1.png?2)
 
 
