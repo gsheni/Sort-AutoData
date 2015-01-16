@@ -31,4 +31,8 @@ If two AutoData objects have the same mpg, the tie is broken by comparing their 
 For each sorting algorithm, the number of swaps are counted. For the brick sort algorithm, multiple swaps which are done independently all count as a single swap.
 Finally, the program outputs the sorted list in the same format as the original database file if the output type is “verbose” or the number of swaps if the output type is “terse”.
 
+##Results
+![alt text](http://imgur.com/beUaOXc)
+![alt text](http://imgur.com/NjWvJc1)
+
 
